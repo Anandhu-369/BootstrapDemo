@@ -1,0 +1,18 @@
+.navbar{
+    background-color: rgb(0, 0, 0);
+}
+.side{
+    background-color: yellow;
+    min-height: 500px;
+    overflow-y: scroll;
+}
+.main{
+    min-height: 500px;
+
+}
+.list-group{
+    background-color: aquamarine;
+}
+.foot{
+    background-color: aqua;
+}
